@@ -1,0 +1,55 @@
+body {
+    color:blueviolet;
+}
+
+
+h2 {
+    color: aquamarine;
+}
+
+h1 {
+    color: chocolate;
+}
+
+.disclaimer{
+    color:wheat;
+    font-family: "Lucida Console", "Courier New", monospace
+}
+
+.indexBGround{
+    background-image: url(charliebackground.jpg);
+    background-size: 250px 250px;
+}
+
+.StyledByCharlie {
+    border-style: dotted;
+    border-width: medium;
+    border-color: aqua;
+  }
+  
+.StyledByCharlieTwo {
+    border-style: ridge;
+    border-width: thick;
+    border-color: rgb(7, 45, 45);
+  }  
+
+.rAlign {
+    text-align: right;
+    color: blueviolet;
+    border-style: dashed;
+    border-bottom:25px seagreen;
+    border-inline-end-color: aquamarine;
+  }
+  
+
+.txtDecoration {
+    text-decoration: overline underline ;
+    color: rgb(168, 168, 128);
+    text-transform: uppercase;
+    transform: scaleX(4.5);
+    transform-origin: left;
+    rotate: -30deg;
+}
+
+
+
